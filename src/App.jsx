@@ -1,6 +1,6 @@
 import React from "react";
-import { Profile } from "./pages/Profile";
+import { New } from "./pages/New";
 
 export function App() {
-  return <Profile />;
+  return <New />;
 }
