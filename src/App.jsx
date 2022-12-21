@@ -1,6 +1,6 @@
 import React from "react";
-import { New } from "./pages/New";
+import { Routes } from "./routes";
 
 export function App() {
-  return <New />;
+  return <Routes />;
 }
